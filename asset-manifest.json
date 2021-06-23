@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/curso-redux/static/css/main.3b6787d3.chunk.css",
+    "main.js": "/curso-redux/static/js/main.681782a3.chunk.js",
+    "main.js.map": "/curso-redux/static/js/main.681782a3.chunk.js.map",
+    "runtime-main.js": "/curso-redux/static/js/runtime-main.92a5ca4e.js",
+    "runtime-main.js.map": "/curso-redux/static/js/runtime-main.92a5ca4e.js.map",
+    "static/js/2.61953d19.chunk.js": "/curso-redux/static/js/2.61953d19.chunk.js",
+    "static/js/2.61953d19.chunk.js.map": "/curso-redux/static/js/2.61953d19.chunk.js.map",
+    "static/js/3.9df624c9.chunk.js": "/curso-redux/static/js/3.9df624c9.chunk.js",
+    "static/js/3.9df624c9.chunk.js.map": "/curso-redux/static/js/3.9df624c9.chunk.js.map",
+    "index.html": "/curso-redux/index.html",
+    "static/css/main.3b6787d3.chunk.css.map": "/curso-redux/static/css/main.3b6787d3.chunk.css.map",
+    "static/js/2.61953d19.chunk.js.LICENSE.txt": "/curso-redux/static/js/2.61953d19.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92a5ca4e.js",
+    "static/js/2.61953d19.chunk.js",
+    "static/css/main.3b6787d3.chunk.css",
+    "static/js/main.681782a3.chunk.js"
+  ]
+}
